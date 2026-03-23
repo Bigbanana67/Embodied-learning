@@ -409,8 +409,8 @@ img.shape → (高度, 宽度, 4)
 ```
 
 ---
-
-
+### 复现结果：
+![复现结果：](assets/result_heatmap.png)
 
 
 
